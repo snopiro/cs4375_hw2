@@ -23,6 +23,7 @@ If you have python already installed on your machine, as well as the libraries
 numpy
 pandas
 matplotlib
+scikit-learn
 ```
 you can run the project locally by navigating to the src directory of this project and running the following command:
 ```
